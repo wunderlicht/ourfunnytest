@@ -1,10 +1,20 @@
 <?php
 
-class weekdays {
+class weekdays
+{
 
-	function foo(){
+
+
+	public function foo()
+	{
+	  return $this->bar();
 	}
 
-}
 
-?>
+  public function bar()
+  {
+    return NULL;
+  }
+
+
+}
