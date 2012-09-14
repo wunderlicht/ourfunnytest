@@ -2,6 +2,9 @@
 
 class weekdays {
 
+	function foo(){
+	}
+
 }
 
 ?>
