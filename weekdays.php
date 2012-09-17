@@ -10,6 +10,12 @@ class weekdays
 	  return $this->bar();
 	}
 
+	
+  public function pappFunction()
+  {
+	return void();
+  }
+
 
   public function bar()
   {
