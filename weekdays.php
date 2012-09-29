@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 class weekdays
@@ -23,4 +24,13 @@ class weekdays
   }
 
 
+=======
+<?php
+
+class weekdays {
+
+	function foo(){
+	}
+
+>>>>>>> empty class and test class, test would run
 }
